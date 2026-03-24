@@ -1,0 +1,7 @@
+ C:\Users\007ja\python_project
+
+cd \Users\007ja\python_project 
+
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass   // to activate or                                                                                          
+                                                              bring google form   
+ venv\Scripts\activate  
